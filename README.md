@@ -74,6 +74,7 @@ Este é um exemplo, para implementar um servidor web http (API RESTfull) em pyth
 | ------------- |:-------------:| -----:|
 | tornado | servidor web    |    https://www.tornadoweb.org/ |
 | pymongo      | conexão com o banco de dado NoSQL mongo | https://api.mongodb.com/python/current/ |
+| sqlparse      |
 | marshmallow      | ODM (Object Document Mapper)    |   https://marshmallow.readthedocs.io |
 | redis | caching requisições | https://redis-py.readthedocs.io |
 | logzero | criação de logs da applicação   |    https://logzero.readthedocs.io/en/latest/ |
